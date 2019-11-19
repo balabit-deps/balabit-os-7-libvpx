@@ -1,7 +1,8 @@
 Source: libvpx
 Section: video
 Priority: optional
-Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
 Uploaders: Sebastian Dröge <slomo@debian.org>,
            Ondřej Nový <onovy@debian.org>,
 Build-Depends: debhelper (>= 11.1.4~),
